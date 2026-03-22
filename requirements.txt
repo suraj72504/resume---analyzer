@@ -1,4 +1,3 @@
 streamlit
 pdfplumber
 pandas
-spacy==3.7.2
